@@ -1,8 +1,8 @@
 # Python
 
-This is a repository of various projects done in Python.
+This is a repository of various projects done while learning Python.
 
-Tic-Tac-Toe Game
+#### Tic-Tac-Toe Game
 1. Download the source code (tic-tac-toe.py)
 2. Launch your operating system's console
 3. Navigate to the location of the file
